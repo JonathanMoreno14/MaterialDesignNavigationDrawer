@@ -1,6 +1,10 @@
 # MaterialDesignNavigationDrawer
 An exmaple of a navigation drawer using Material Design for Android
 
+
+![materialdesignnavdrawer](https://cloud.githubusercontent.com/assets/11635523/20128011/6e504e82-a60a-11e6-8563-c31c6d1d111f.gif)
+
+
 Currently there is only 1 activity for demonstration purposes. To add new acticities you will need to add them to the package **androidproject.com.materialdeisgnnavigationdrawer.activities**
 
 The current activity is **Experience**
