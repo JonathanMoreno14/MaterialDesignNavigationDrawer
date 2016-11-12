@@ -87,6 +87,22 @@ For the *content_main* I added a **NestedScrollView** to the **app_bar_main.xml*
     </android.support.v4.widget.NestedScrollView>
 
 ```
+Add this to the **nav_header_main.xml** file
+
+```xml
+
+  <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        android:src="@drawable/jm"
+        app:civ_border_width="2dp"
+        android:paddingTop="@dimen/nav_header_vertical_spacing"
+        app:civ_border_color="@color/colorPrimary"/>
+
+```
+
 
 ### Dependencies
 
